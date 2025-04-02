@@ -375,6 +375,11 @@ footer {
     position: static;
     background-color: #f5f5f5;
   }
+  .hero{
+		background-image: none;
+	  background-position: 30%;
+	    background-size: cover;
+	}
   .nav-container {
     flex-direction: column;
   }
