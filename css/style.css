@@ -371,6 +371,7 @@ footer {
 	bottom: 30px;
 	right: 30px;
 	animation: shake 2s infinite;
+	z-index: 888;
 
 }
 
